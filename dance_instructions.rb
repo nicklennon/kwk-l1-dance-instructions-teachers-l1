@@ -9,9 +9,9 @@ def bust_a_move
   puts "Be Cool. Be Snazzy!"
 end
 
-def skip_step()
-  puts "Lower foot to the ground"
-  puts "Bounce foot back up slightly, kicking it a few inches back"
+def skip_step(foot)
+  puts "Lower #{foot} foot to the ground"
+  puts "Bounce #{foot} foot back up slightly, kicking it a few inches back"
 end
 
 def base_footwork
@@ -34,11 +34,11 @@ def lasso
 end
 
 def left
-  puts "Left, Right, Left, Left"
+  puts "left"
 end
 
 def right
-  puts "Right, Left, Right, Right"
+  puts "right"
 end
 
 starting_stance

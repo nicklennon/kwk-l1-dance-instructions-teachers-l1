@@ -6,7 +6,7 @@ def starting_stance
 end
 
 def bust_a_move
-  puts "Be Cool. Be Snazzy!"
+  puts "Be cool and be snazzy!"
 end
 
 def skip_step(foot)

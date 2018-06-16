@@ -10,8 +10,8 @@ def bust_a_move
 end
 
 def skip_step()
-  puts "Lower left foot to the ground"
-  puts "Bounce left foot back up slightly, kicking it a few inches back"
+  puts "Lower foot to the ground"
+  puts "Bounce foot back up slightly, kicking it a few inches back"
 end
 
 def base_footwork

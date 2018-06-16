@@ -47,8 +47,8 @@ base_footwork
 bob_the_reins
 skip_step(right)
 bob_the_reins
-skip_step("left")
+skip_step(left)
 lasso
-skip_step("right")
+skip_step(right)
 lasso
-skip_step("left")
+skip_step(left)

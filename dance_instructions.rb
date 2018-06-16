@@ -33,13 +33,6 @@ def lasso
   puts"Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso."
 end
 
-def left
-  puts "left"
-end
-
-def right
-  puts "right"
-end
 
 starting_stance
 bust_a_move
